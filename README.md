@@ -45,19 +45,6 @@ Tracking Camera
 - Simulation mode for safe testing
 - Web-preview resolution/FPS independent of AI processing
 
-## 📸 Show the build
-
-A repository like this benefits enormously from real photos and short GIFs. Add:
-
-```text
-docs/tracking-demo.gif
-docs/id-camera-demo.gif
-docs/dispenser-demo.gif
-docs/full-build.jpg
-```
-
-A 10–20 second clip showing **approach → identify → dispense → scare** is ideal.
-
 ## Hardware
 
 The original build uses a Windows AI host with two USB cameras, a Raspberry Pi-controlled stepper sweet dispenser and a separate Scare Mirror application.
