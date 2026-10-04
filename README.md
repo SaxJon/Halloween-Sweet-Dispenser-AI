@@ -62,7 +62,7 @@ The software is intentionally adaptable to other cameras and dispenser mechanism
 ## Quick start
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/HalloweenAI.git
+git clone [https://github.com/SaxJon/Halloween-Sweet-Dispenser-AI]
 cd HalloweenAI
 py -m venv .venv
 .venv\Scripts\activate
