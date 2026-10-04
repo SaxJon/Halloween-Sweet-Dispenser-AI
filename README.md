@@ -155,15 +155,9 @@ Ideas that would make meaningful contributions:
 
 See `CONTRIBUTING.md`.
 
-## Safety
-
-This project can control physical machinery. Keep fingers, hair and clothing away from moving mechanisms, provide a physical power disconnect, test mechanisms unloaded, and design the hardware so software failure cannot create a trapping/crushing hazard.
-
-Computer vision is probabilistic. Do not use this project for safety-critical access control or consequential decisions about people.
-
 ## Privacy
 
-Current appearance profiles are held in memory for the running session. If you add persistent images, video, identifiers or appearance profiles, consider the privacy/data-protection requirements that apply where you operate the system.
+Current appearance profiles are held in memory for the running session.
 
 ## License
 
