@@ -1,4 +1,4 @@
-# 🎃 Halloween AI
+# 🎃 Halloween Sweet Dispenser AI
 
 **AI-powered trick-or-treat automation that detects visitors, remembers who has already been served, dispenses sweets and triggers an interactive scare mirror.**
 
